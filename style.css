@@ -1,0 +1,37 @@
+h1{
+    color:rgb(58, 192, 9); 
+    font-family: arial;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: bold;
+}
+
+h2{
+    color:rgb(44, 149, 193); 
+    font-family: arial;
+    font-size: 45px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    color: orange;
+    font-family: arial;
+    font-size: 35px;
+    text-align: center;
+}
+
+p{
+    color:rgb(0, 0, 0); 
+    font-family: arial;
+    font-size: 20px;
+}
+
+a{
+    font-family: Arial;
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(181, 216, 255);
+}
